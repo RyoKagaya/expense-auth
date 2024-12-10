@@ -9,6 +9,10 @@ RATIO経費精算：Google認証
 
 ## ③DEMO
 
+https://github.com/user-attachments/assets/9482e599-3458-4e6f-a6ab-41b9620f4d8e
+
+
+
 
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
